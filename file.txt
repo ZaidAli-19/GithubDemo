@@ -9,3 +9,5 @@ Zaid Added a new api.
 Added a new api for fetching user data.
 
 Some new features were added
+
+Added payment gateway feature.
