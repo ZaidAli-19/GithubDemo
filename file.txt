@@ -11,3 +11,6 @@ Added a new api for fetching user data.
 Some new features were added
 
 Added fetch transactions api.
+
+Added payment gateway feature.
+
