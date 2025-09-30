@@ -5,3 +5,5 @@ Added a new line.
 Bilal added a new functionality.
 
 Zaid Added a new api.
+
+Some new features were added
